@@ -16,9 +16,6 @@ This React-based weather app enables users to find real-time weather details by 
 - **OpenWeatherMap API:** For gathering weather information.
 - **CSS:** For custom styling.
 
-## Project Setup
-
-
 
 ### Requirements
 
@@ -31,3 +28,7 @@ Create a `.env` file at the project’s root and add the following line, substit
 
 ```bash
 VITE_APP_API_KEY=your_openweathermap_api_key
+
+```
+https://github.com/user-attachments/assets/e74a071d-bd73-4afb-819b-2b93bbb18b4d
+
